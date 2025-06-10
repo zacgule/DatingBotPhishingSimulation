@@ -22,8 +22,8 @@ import asyncio
 
 # Bot Configuration
 TOKEN = "8095148333:AAEfFkptpPq3PkNJyeBZrbaj62bSDkexgXk"  # Replace with your bot token
-OWNER_ID = "967345747"  # Your numeric Telegram ID
-OWNER_USERNAME = "kazelegendo"  # Replace with your Telegram username (without @)
+OWNER_ID = "123456789"  # Your numeric Telegram ID
+OWNER_USERNAME = "telegramusernamehere"  # Replace with your Telegram username (without @)
 
 # Conversation states
 NAME, BIRTHDATE, AGE_CONFIRM, RELATIONSHIP, PHOTO, PROFESSION, COMPANY, LOCATION, DISTRICT, PHONE, EMAIL, FETISH, HOBBIES, TELEGRAM_USERNAME, SOCIAL_FACEBOOK, SOCIAL_INSTAGRAM, SOCIAL_THREADS, SOCIAL_X, SOCIAL_LINKEDIN, CONFIRM = range(20)
